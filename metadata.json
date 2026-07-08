@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Chord Grid",
+  "description": "An interactive musical chord grid for Major and Minor scales, complete with hover animations, dynamic chord diagrams for guitar and piano, and audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
